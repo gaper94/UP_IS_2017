@@ -24,7 +24,7 @@
 `Пример:`
 ```
 21 => 21 is divisible by 3 and not divisible by 6
-18 => 18 is not divisible by 3 and not divisible by 6
+18 => 18 is divisible by 3 and 6
 4334 => 4334 is palindrom
 1994 => 1994 is not palindrom
 1452 => False
