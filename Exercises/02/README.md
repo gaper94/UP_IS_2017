@@ -45,7 +45,7 @@
 
 `Пример:`
 ```
-0 1 => (0, 1) is not in the circle
+10 50 => (10, 50) is not in the circle
 4 5 => (4, 6) is in the circle
 ```
 ## Задача 5
